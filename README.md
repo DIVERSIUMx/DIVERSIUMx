@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @DIVERSIUM :D
 - ❤️ I love minecraft
 - ☝️ I’m DIVERSIUM, not DIVERSION, do not confuse!
-- 🇷🇺 I’m from Russia
-- 🇬🇧 Learning English
 - 📝 Real name is Kostya
 - 🤔 <- Favorite emoji
 - ⭐️ Created GitHub account for stars
